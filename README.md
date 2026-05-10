@@ -59,9 +59,16 @@
 ![ERD](erd_logical.png)
 
 ## DFD (контекстная) ##
+![DFD](dfd_context.png)
+
 ## DFD (логическая - уровень "0") ##
+![DFD](dfd_log_0_level.png)
+
 ## DFD (логическая - уровень "1") ##
+![DFD](dfd_log_1_level.png)
+
 ## DFD (логическая - уровень "2") ##
+![DFD](dfd_log_2_level.png)
 
 
 
