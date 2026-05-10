@@ -41,7 +41,7 @@
 
 ## Артефакты 
 
-- User Story Map критерии приёмки
+- User Story Map и критерии приёмки
 [Открыть в Miro](https://miro.com/app/board/uXjVHYM38yA=/?share_link_id=498810586648)
 
 - Прототип
