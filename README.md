@@ -41,10 +41,10 @@
 
 ## Артефакты 
 
-## User Story Map критерии приёмки ##
+- User Story Map критерии приёмки
 [Открыть в Miro](https://miro.com/app/board/uXjVHYM38yA=/?share_link_id=498810586648)
 
-## Прототип ##
+- Прототип
 [Открыть в Figma](https://www.figma.com/design/JZOboDwh9sQOrnSB7sheuN/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-Stets-Home?node-id=0-1&t=LKi5twMyMdOPSJGI-1)
 
 ## Результаты
