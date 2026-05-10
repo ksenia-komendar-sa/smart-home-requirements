@@ -47,6 +47,24 @@
 - Прототип
 [Открыть в Figma](https://www.figma.com/design/JZOboDwh9sQOrnSB7sheuN/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-Stets-Home?node-id=0-1&t=LKi5twMyMdOPSJGI-1)
 
+- Словарь данных
+[Открыть в Google Docs](https://docs.google.com/document/d/1276-x8iFPNH7Iqcgq_mFbPR6Dz7B2cwHO6XgllB5yfM/edit?usp=sharing)
+
+- Программа и методика испытаний
+  [Открыть в Google Docs](https://docs.google.com/document/d/1yjulCgIUL4ZXsj6LsSzUSR42SCCo4zZpwtTEMLeOh5o/edit?usp=sharing)
+
+## Диаграммы ##
+
+## ER-диаграмма (логический уровень) ##
+## DFD (контекстная) ##
+## DFD (логическая - уровень "0") ##
+## DFD (логическая - уровень "1") ##
+## DFD (логическая - уровень "2") ##
+
+
+
+
+
 ## Результаты
 - Выявлены и задокументированы требования на основе анализа интервью с заказчиком и пользователями
 - Определены границы MVP и функциональность следующих версий
